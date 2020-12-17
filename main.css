@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+    height: 100vh;
+    align-items: center;
+}
+
+.box .image img{
+    height: 450px;
+    width: 330px;
+    margin: 20px 20px 20px 20px;
+}
+.box{
+   
+}
+.box .btn{
+   height: 40px;
+   width: 330px;
+   margin-left: 20px;margin-top: auto;
+font-size: 20px;
+background-color: steelblue;
+color: black;
+
+}
